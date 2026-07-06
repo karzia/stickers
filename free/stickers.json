@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "stickers": [
     { "id": "boy", "nameKo": "철수", "nameEn": "Chulsoo", "image": "boy.png" },
     { "id": "cat_01", "nameKo": "근육냥", "nameEn": "Gym Cat", "image": "cat_01.png" },
@@ -14,9 +14,9 @@
     { "id": "horse_03", "nameKo": "공부말", "nameEn": "Study Horse", "image": "horse_03.png" },
     { "id": "horse_04", "nameKo": "실험말", "nameEn": "Lab Horse", "image": "horse_04.png" },
     { "id": "rabit_01", "nameKo": "운동토끼", "nameEn": "Gym Bunny", "image": "rabit_01.png" },
-    { "id": "rabit_02", "nameKo": "실험토끼", "nameEn": "Lab Bunny", "image": "rabit_02.png" },
-    { "id": "rabit_03", "nameKo": "명상토끼", "nameEn": "Zen Bunny", "image": "rabit_03.png" },
-    { "id": "rabit_04", "nameKo": "공부토끼", "nameEn": "Study Bunny", "image": "rabit_04.png" },
+    { "id": "rabit_02", "nameKo": "명상토끼", "nameEn": "Zen Bunny", "image": "rabit_02.png" },
+    { "id": "rabit_03", "nameKo": "공부토끼", "nameEn": "Study Bunny", "image": "rabit_03.png" },
+    { "id": "rabit_04", "nameKo": "실험토끼", "nameEn": "Lab Bunny", "image": "rabit_04.png" },
     { "id": "sparkle", "nameKo": "반짝이", "nameEn": "Sparkle", "image": "sparkle.png" },
     { "id": "test", "nameKo": "테스트 별", "nameEn": "Test Star", "image": "test.svg" },
     { "id": "todo", "nameKo": "할일", "nameEn": "Todo", "image": "todo.png" }
