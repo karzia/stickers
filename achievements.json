@@ -1,0 +1,111 @@
+{
+  "achievements": [
+    {
+      "id": "s1",
+      "stickerId": "boy",
+      "label": "철수",
+      "category": "recent",
+      "descriptionKo": "첫 미션 완료",
+      "descriptionEn": "Complete your first mission",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "totalSuccessCount",
+        "operator": ">=",
+        "value": 1
+      }
+    },
+    {
+      "id": "s2",
+      "stickerId": "cat_01",
+      "label": "근육냥",
+      "category": "mission",
+      "descriptionKo": "기본 지급",
+      "descriptionEn": "Default reward",
+      "rule": { "type": "manual" }
+    },
+    {
+      "id": "s3",
+      "stickerId": "cat_02",
+      "label": "요가냥",
+      "category": "mission",
+      "descriptionKo": "오늘 미션 1개 완료",
+      "descriptionEn": "Complete 1 mission today",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "completedTodayCount",
+        "operator": ">=",
+        "value": 1
+      }
+    },
+    {
+      "id": "s4",
+      "stickerId": "cat_03",
+      "label": "공부냥",
+      "category": "limited",
+      "descriptionKo": "연속 3일 성공",
+      "descriptionEn": "Keep a 3-day streak",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "bestStreak",
+        "operator": ">=",
+        "value": 3
+      }
+    },
+    {
+      "id": "s5",
+      "stickerId": "cat_04",
+      "label": "실험냥",
+      "category": "limited",
+      "descriptionKo": "습관 5회 완료",
+      "descriptionEn": "Complete missions 5 times",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "totalSuccessCount",
+        "operator": ">=",
+        "value": 5
+      }
+    },
+    {
+      "id": "s6",
+      "stickerId": "dongdong",
+      "label": "동동",
+      "category": "mission",
+      "descriptionKo": "습관 2회 완료",
+      "descriptionEn": "Complete missions 2 times",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "totalSuccessCount",
+        "operator": ">=",
+        "value": 2
+      }
+    },
+    {
+      "id": "s7",
+      "stickerId": "ghost",
+      "label": "고스트",
+      "category": "recent",
+      "descriptionKo": "오늘 미션 2개 완료",
+      "descriptionEn": "Complete 2 missions today",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "completedTodayCount",
+        "operator": ">=",
+        "value": 2
+      }
+    },
+    {
+      "id": "s8",
+      "stickerId": "girl",
+      "label": "미미",
+      "category": "limited",
+      "descriptionKo": "습관 10회 완료",
+      "descriptionEn": "Complete missions 10 times",
+      "rule": {
+        "type": "metricCompare",
+        "metric": "totalSuccessCount",
+        "operator": ">=",
+        "value": 10
+      }
+    }
+  ]
+}
