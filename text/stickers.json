@@ -1,9 +1,9 @@
 {
-  "version": 1,
+  "version": 2,
   "stickers": [
     {
       "id": "text_lucky",
-      "nameKo": "Lucky..",
+      "nameKo": "Lucky",
       "nameEn": "Lucky",
       "image": "lucky.png"
     },
