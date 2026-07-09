@@ -1,9 +1,10 @@
 {
-  "version":2,
+  "version": 4,
   "achievements": [
     {
       "id": "s1",
       "stickerId": "boy",
+      "extraStickerIds": ["text_mission_complete", "text_self_congrats"],
       "label": "철수",
       "category": "recent",
       "descriptionKo": "첫 미션 완료",
@@ -18,6 +19,7 @@
     {
       "id": "s2",
       "stickerId": "cat_01",
+      "extraStickerIds": ["text_lets_go", "text_lucky"],
       "label": "근육냥",
       "category": "mission",
       "descriptionKo": "기본 지급",
@@ -27,6 +29,7 @@
     {
       "id": "s3",
       "stickerId": "cat_02",
+      "extraStickerIds": ["text_good_job_today", "text_easy_go"],
       "label": "요가냥",
       "category": "mission",
       "descriptionKo": "오늘 미션 1개 완료",
@@ -41,6 +44,7 @@
     {
       "id": "s4",
       "stickerId": "cat_03",
+      "extraStickerIds": ["text_absolute_stability", "text_keep_forever"],
       "label": "공부냥",
       "category": "limited",
       "descriptionKo": "연속 3일 성공",
@@ -55,6 +59,7 @@
     {
       "id": "s5",
       "stickerId": "cat_04",
+      "extraStickerIds": ["text_god_tier", "text_im_the_best"],
       "label": "실험냥",
       "category": "limited",
       "descriptionKo": "습관 5회 완료",
@@ -69,6 +74,7 @@
     {
       "id": "s6",
       "stickerId": "dongdong",
+      "extraStickerIds": ["text_crawling", "text_doomchit"],
       "label": "동동",
       "category": "mission",
       "descriptionKo": "습관 2회 완료",
@@ -83,6 +89,7 @@
     {
       "id": "s7",
       "stickerId": "ghost",
+      "extraStickerIds": ["text_overwhelming_congrats", "text_im_the_star"],
       "label": "고스트",
       "category": "recent",
       "descriptionKo": "오늘 미션 2개 완료",
@@ -97,6 +104,7 @@
     {
       "id": "s8",
       "stickerId": "girl",
+      "extraStickerIds": ["text_healing_time", "text_story_gem"],
       "label": "미미",
       "category": "limited",
       "descriptionKo": "습관 10회 완료",

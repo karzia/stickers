@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "free",
+      "manifest": "free/stickers.json",
+      "nameKo": "무료",
+      "nameEn": "Free",
+      "default": true
+    },
+    {
+      "id": "text",
+      "manifest": "text/stickers.json",
+      "nameKo": "텍스트",
+      "nameEn": "Text",
+      "default": true
+    }
+  ]
+}
